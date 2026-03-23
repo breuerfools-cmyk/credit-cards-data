@@ -1,0 +1,14 @@
+# credit-cards-data
+card api
+[
+  {
+    "id": "amex",
+    "name": "Amex Gold",
+    "desc": "4X points on dining"
+  },
+  {
+    "id": "chase",
+    "name": "Chase Freedom Unlimited",
+    "desc": "1.5% cashback on all purchases"
+  }
+]
